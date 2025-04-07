@@ -6,4 +6,4 @@ region=tw
 tierSlots=chest, hands, head, legs, shoulder
 
 # What mythic+ level keys are we tracking?
-keyThreshold=9
+keyThreshold=10
